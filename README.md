@@ -26,3 +26,7 @@ Esse projeto é parte para estudos e portfólio pessoal. Estou aprendendo e send
 - Postgresql 12 e pgAdmin
 - Netlify
 - Heroku CLI
+
+## Agradecimentos e Links
+Quero agradecer ao professor Nelio Alves pelo conteúdo didático e a clareza nas explicações durante o código e projeto em si. A visão que ele passou desde o primeiro episódio me motivou muito e fez com que eu pensasse como um desenvolvedor que foca no seu projeto até o fim. <br><br>
+[DevSuperior](https://devsuperior.com.br/evento-sds?episodio=1)
